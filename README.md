@@ -75,5 +75,5 @@ const teamMembers = [
 | Safari	| 12+ |
 
 ## 📜 Лицензия
-MIT License. Подробнее в файле LICENSE.
+MIT License. Подробнее в файле [LICENSE](LICENSE).
 
