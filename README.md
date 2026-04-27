@@ -55,7 +55,7 @@ http://localhost:8000
 ## 🔧 Конфигурация
 Измените данные участников в script.js:
 
-javascript
+```javascript
 
 const teamMembers = [
   {
@@ -65,7 +65,7 @@ const teamMembers = [
   }
   // ...
 ];
-
+```
 
 ## 🌍 Поддержка браузеров
 | **Браузер** |	**Версия** |
